@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@aws-amplify/ui-vue": "^3.1.30",
-    "@mparticle/web-sdk": "^2.23.2",
+    "@mparticle/web-sdk": "^2.26.10",
     "@optimizely/optimizely-sdk": "^4.9.2",
     "amplitude-js": "^5.8.0",
     "autoprefixer": "^10.4.13",
